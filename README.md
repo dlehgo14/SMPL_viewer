@@ -8,5 +8,5 @@ Scale bar means the SMPL shape parameters. (From top to bottom, 1-st parameter ~
 
 Only 1st~6th parameters are now available due to the memory issues. 
 
-![sample](\sample.png)
+![sample](sample.png)
 
